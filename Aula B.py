@@ -1,9 +1,9 @@
 """
 Fazendo uma copia do dict
-Para se fazer uma copia de dicionarios, precisamos da biblioteca copy. Quando se fazer uma copia, usando .copy() proprio
+Para se fazer uma copia de dicionarios, precisamos da biblioteca copy. Quando se faz uma copia, usando .copy() proprio
 do dicionario, os dois dicionarios, tanto original e a copia, serão o mesmo. Quando mudar o valor do dicionario copia,
 automaticamente tambem irá mudar o dicionario original, pois os ID são os mesmo.
-Para isso se isa deepcopy()
+Para isso se usa deepcopy()
 """
 
 import copy
